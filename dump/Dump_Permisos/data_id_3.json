@@ -1,0 +1,1 @@
+{"permissions":[{"id":44,"estado":true,"id_grupos":3,"id_acciones":43,"gruposUsuarios":{"id":3,"nombre":"Básico","estado":true,"id_organizaciones":null,"rol":null,"organizaciones":null},"acciones":{"id":43,"nombre":"Leer","estado":true,"id_modulos":16,"modulos":{"id":16,"nombre":"Dashboard","estado":true}}}],"message":"Permisos listados"}
