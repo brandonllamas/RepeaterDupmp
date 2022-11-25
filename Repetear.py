@@ -4,9 +4,9 @@ import json
 from pathlib import Path
 
 # global variables
-url ="/permission/getPermissions"
-host ="https://gtw.certika.co"
-token ="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEzNTU2LCJjb3JyZW8iOiJqaXVuX2pia3VpMzRAbXl4dS5pbmZvIiwiaWF0IjoxNjY5MjQ3NjQzLCJleHAiOjE2NzcwMjM2NDN9.D38SWnOlbKY5rMIgsa141E21-9-6i5GLyQBSZLpCF_U"
+url =""
+host =""
+token =""
 cookies = {'token': token}
 
 carpeta ="Dump_Permisos/"
@@ -21,8 +21,8 @@ header={
     "Accept-Encoding": "gzip, deflate",
     "Content-Type": "application/json",
     # "Content-Length": 15,
-    "Origin": "https://app.certika.co",
-    "Referer": "https://app.certika.co/",
+    "Origin": "",
+    "Referer": "",
     "Sec-Fetch-Dest": "empty",
     "Sec-Fetch-Mode": "cors",
     "Sec-Fetch-Site": "same-site",
